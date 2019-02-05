@@ -1,5 +1,6 @@
-lib/
-dist/
+#Pushing lib and dist for nam installs
+#lib/
+#dist/
 
 # Logs
 logs
